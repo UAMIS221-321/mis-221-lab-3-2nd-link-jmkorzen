@@ -1,0 +1,14 @@
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\bin\Debug\net8.0\lab3.exe
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\bin\Debug\net8.0\lab3.deps.json
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\bin\Debug\net8.0\lab3.runtimeconfig.json
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\bin\Debug\net8.0\lab3.dll
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\bin\Debug\net8.0\lab3.pdb
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.AssemblyInfoInputs.cache
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.AssemblyInfo.cs
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.dll
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\refint\lab3.dll
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.pdb
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\lab3\obj\Debug\net8.0\ref\lab3.dll
